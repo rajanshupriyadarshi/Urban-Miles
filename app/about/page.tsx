@@ -24,8 +24,7 @@ const leaders = [
     initials:    'AK',
     bgColor:     '#5B21B6',
     qualifications: [
-      'B.Tech (Computer Science)',
-      'MBA – Operations & Strategy',
+      'B.Tech (Mechanical Engineering)',
       'Certified Transport Management Professional',
     ],
     positions: [
@@ -49,8 +48,7 @@ const leaders = [
     initials:    'PS',
     bgColor:     '#F59E0B',
     qualifications: [
-      'MBA – Business Administration',
-      'B.Com (Honors)',
+      'B.Tech (Computer Science Engineering)',
       'Certified Operations & Supply Chain Manager',
     ],
     positions: [
